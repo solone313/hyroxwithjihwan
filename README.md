@@ -2,8 +2,8 @@
 
 | 요일 | 운동 구성 | 설명 |
 |------|------------|------|
-| **월요일**<br>Push + Pull 집중 | **EMOM 16 (4 movements x 4 rounds)**<br>1. 트레드밀 런 200m or 90초<br>2. 바벨 푸시 10~15m or 30초<br>3. 바벨 벤트오버 로우 10 reps<br>4. 버피 5~8개 or 휴식 | 슬레드 푸시/풀 대체. 하체 + 등 견인 훈련 |
-| **화요일**<br>Lunge + Carry | **5 Rounds For Time**<br>1. 트레드밀 런 200m<br>2. DB Front Rack Lunge 20m<br>3. DB Farmers Carry 20m<br>4. 플랭크 홀드 30초<br>5. Rest 1분 | 하체 밸런스 + 코어 + 그립력 |
-| **수요일**<br>Pull + Metcon | **AMRAP 18**<br>1. DB 데드리프트 10 reps<br>2. 트레드밀 런 150m<br>3. 케틀벨 or DB 스윙 12 reps<br>4. DB 로우 10 reps/arm<br>5. 버피 6 reps | 상체 견인 + 전신 컨디셔닝 구성 |
-| **목요일**<br>Burpee + Carry | **4 Rounds for Quality**<br>1. Burpee Broad Jump 10~15m (or 제자리 12 reps)<br>2. DB or KB Carry 20m<br>3. 트레드밀 런 200m<br>4. Wall Sit 30초 | 낮은 강도 반복성 + 하체 정적 수축 |
-| **금요일**<br>Pacing & Finish | **5 Rounds (2분 work / 1분 rest)**<br>1. 트레드밀 런 100m<br>2. DB Thruster 10 reps<br>3. DB Farmers Carry 10m<br>4. 버피 5 reps | 하이록스 페이스 조절 시뮬레이션 |
+| **월요일**<br>Push + Pull 집중 | **EMOM 16 (4 movements x 4 rounds)**<br>&bull; 트레드밀 런 (200m or 90초)<br>&bull; 바벨 푸시 (10-15m 이동 or 30초 전력)<br>&bull; 바벨 벤트오버 로우 (10회)<br>&bull; 버피 (5-8회) 또는 휴식 | 슬레드 푸시/풀 대체. 하체 + 등 견인 훈련 |
+| **화요일**<br>Lunge + Carry | **5 Rounds For Time**<br>&bull; 트레드밀 런 (200m)<br>&bull; 덤벨 프론트랙 런지 (20m)<br>&bull; 덤벨 파머스 캐리 (20m)<br>&bull; 플랭크 홀드 (30초)<br>&bull; 라운드 후 1분 휴식 | 하체 밸런스 + 코어 + 그립력 |
+| **수요일**<br>Pull + Metcon | **AMRAP 18**<br>&bull; 덤벨 데드리프트 (10회)<br>&bull; 트레드밀 런 (150m)<br>&bull; 케틀벨 or 덤벨 스윙 (12회)<br>&bull; 덤벨 로우 (한 팔당 10회)<br>&bull; 버피 (6회) | 상체 견인 + 전신 컨디셔닝 구성 |
+| **목요일**<br>Burpee + Carry | **4 Rounds for Quality**<br>&bull; 버피 브로드 점프 (10-15m) 또는 제자리 12회<br>&bull; 덤벨 또는 케틀벨 캐리 (20m)<br>&bull; 트레드밀 런 (200m)<br>&bull; 월싯 (30초) | 낮은 강도 반복성 + 하체 정적 수축 |
+| **금요일**<br>Pacing & Finish | **5 Rounds (2분 운동 / 1분 휴식)**<br>&bull; 트레드밀 런 (100m)<br>&bull; 덤벨 스러스터 (10회)<br>&bull; 덤벨 파머스 캐리 (10m)<br>&bull; 버피 (5회) | 하이록스 페이스 조절 시뮬레이션 |
